@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaai23wayxr4ttubgs3ziyi5hmuz4huwvs72bmvgpstczhbrruvr33a
+fingerprint=55:41:d9:25:e8:42:71:94:27:83:76:f3:6f:27:f6:03
+tenancy=ocid1.tenancy.oc1..aaaaaaaake2muzpmc5tzds73is2rpk7md6mshi4b3cyxcykrlxzjjnzl64fq
+region=ap-hyderabad-1
+key_file=C:/Users/mselvaraj/OneDrive - ALLEGIS GROUP/Desktop/Oracle Cloud/Out Of Capacity Error/key.pem
